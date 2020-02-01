@@ -3,6 +3,7 @@
 # DataTypes/Control Flow Statements
 *********
 Java int to String Conversion with examples(conversion)
+
 Java Convert String to int examples(conversion)
 Java Program to Multiply Two Numbers
 Java Program to find largest of three Numbers
@@ -15,33 +16,33 @@ Java program for bubble sort in Ascending & descending order
 Java program for linear search
 Java program to perform binary search
 
-#Looping
+# Looping
 *******
 Java Program to display even& odd numbers from 1 to n or 1 to 100
 Java Program to check Armstrong number
 Java Program to Find Sum of Natural Numbers
 Java Program to check if a given number is perfect square
 
-#Constructors
+# Constructors
 ************
 Default constructor
 no-arg constructor
 Parameterized constructor
 Copy Constructor
 
-#Switch Case
+# Switch Case
 ***********
 Java Program to Make a Calculator using Switch Case
 
-#Math Functions
+# Math Functions
 **************
 Java Program to Calculate Area of Rectangle
 Java program to calculate area of Square
 Java program to calculate area of Triangle
 
-#Array
+# Array
 ******
-Java Program to reverse the Array
+Java Program to reverse the Array 
 Java program to sum the elements of an array
 How to write an array of strings to the output console ?
 How to merge two arrays
@@ -49,7 +50,7 @@ How to remove an element of array
 How to check if two arrays are equal or not
 How to compare two arrays
 
-#Strings
+# Strings
 ********
 Java Program to Count Vowels and Consonants in a String
 Java Program to find duplicate Characters in a String
