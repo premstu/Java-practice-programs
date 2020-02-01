@@ -1,6 +1,6 @@
 # Java-practice-programs
 
-#DataTypes/Control Flow Statements
+# DataTypes/Control Flow Statements
 *********
 Java int to String Conversion with examples(conversion)
 Java Convert String to int examples(conversion)
@@ -8,17 +8,20 @@ Java Program to Multiply Two Numbers
 Java Program to find largest of three Numbers
 Java program to reverse a number using for, while and recursion
 Java program to generate random number
-#Algorithm
+
+# Algorithm
 **********
 Java program for bubble sort in Ascending & descending order
 Java program for linear search
 Java program to perform binary search
+
 #Looping
 *******
 Java Program to display even& odd numbers from 1 to n or 1 to 100
 Java Program to check Armstrong number
 Java Program to Find Sum of Natural Numbers
 Java Program to check if a given number is perfect square
+
 #Constructors
 ************
 Default constructor
